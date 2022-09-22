@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084025086665",
+    "project_id": "authtest-a9f8b",
+    "storage_bucket": "authtest-a9f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084025086665:android:6f96c5f48fb962452e2318",
+        "android_client_info": {
+          "package_name": "com.example.clifftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084025086665-fnvci18lpl2nct9jjn6fo841mkrgsiko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYxnMUy_le2tOzdPbX0a4k5Zg8x3lM_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084025086665-fnvci18lpl2nct9jjn6fo841mkrgsiko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
